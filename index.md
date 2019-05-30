@@ -17,5 +17,5 @@ For more details, go read a book on bananas.
     enable_page_level_ads: true
   });
 </script>
-   </head>
-   </html>
+</head>
+</html>
