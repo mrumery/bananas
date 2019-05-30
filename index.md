@@ -8,3 +8,5 @@ For more details, go read a book on bananas.
 
 bye bye now
 urg
+
+[other test](https://www.google.com/)
