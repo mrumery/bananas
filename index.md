@@ -1,4 +1,4 @@
-## Michael's page
+## Michael's page on bananas
 
 **Welcome** to my page on bananas.
 
